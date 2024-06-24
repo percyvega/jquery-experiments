@@ -1,0 +1,11 @@
+# Node
+/node_modules
+/package-lock.json
+
+# IDEs and editors
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+nohup.out
